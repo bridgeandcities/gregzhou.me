@@ -1,2 +1,2 @@
 # gregzhou.me
-My website
+My self-hosted website
