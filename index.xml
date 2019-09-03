@@ -1,0 +1,139 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Greg Zhou</title>
+		<link>http://gregzhou.me/</link>
+		<description>Recent content on Greg Zhou</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Tue, 03 Sep 2019 16:28:57 +1200</lastBuildDate>
+		<atom:link href="http://gregzhou.me/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title></title>
+			<link>http://gregzhou.me/qr/</link>
+			<pubDate>Tue, 03 Sep 2019 16:28:57 +1200</pubDate>
+			
+			<guid>http://gregzhou.me/qr/</guid>
+			<description></description>
+			<content type="html"><![CDATA[<p><img src="/image/qr.png" alt="Greg Zhou's Summer of Tech QR code" /></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>http://gregzhou.me/cv/</link>
+			<pubDate>Tue, 03 Sep 2019 15:05:55 +1200</pubDate>
+			
+			<guid>http://gregzhou.me/cv/</guid>
+			<description>Greg Zhou 28A Tohunga Crescent, Parnell
+Auckland, 1052
+New Zealand
++6422 082 0022
+dakaizhou.gz@gmail.com
+EDUCATION  The University of Auckland
+2016 - Present
+ Bachelor of Science - Computer Science
+ Bachelor of Commerce - Finance and Information Systems
+  Auckland Grammar School
+2011 - 2015
+ WORK EXPERIENCE  New World, Victoria Park — Online sales agent
+October 2018 - present
+The role requires communicating directly with customers and working with staff members of other departments.</description>
+			<content type="html"><![CDATA[
+
+<h1 id="greg-zhou">Greg Zhou</h1>
+
+<p>28A Tohunga Crescent, Parnell<br />
+Auckland, 1052<br />
+New Zealand<br />
+<a href="tel:64220820022">+6422 082 0022</a><br />
+<a href="mailto:dakaizhou.gz@gmail.com">dakaizhou.gz@gmail.com</a></p>
+
+<h3 id="education">EDUCATION</h3>
+
+<blockquote>
+<p><strong>The University of Auckland</strong><br />
+2016 - Present</p>
+
+<ul>
+<li>Bachelor of Science - Computer Science<br /></li>
+<li>Bachelor of Commerce - Finance and Information Systems<br /></li>
+</ul>
+
+<p><strong>Auckland Grammar School</strong><br />
+2011 - 2015</p>
+</blockquote>
+
+<h3 id="work-experience">WORK EXPERIENCE</h3>
+
+<blockquote>
+<p><strong>New World, Victoria Park — Online sales agent</strong><br />
+October 2018 - present</p>
+
+<p>The role requires communicating directly with customers and working with staff members of other departments. I trained a new staff member in April 2019 and successfully integrated them into daily operations. Delivering orders requires good time management skills and the ability to work well under pressure by organising deliveries and ensuring on time order fulfilment. My contribution to the department has allowed us to retain our position as the best performing online department out of all the New World stores in New Zealand.</p>
+
+<p><strong>Overload 2017 — Volunteer</strong><br />
+30th September 2017</p>
+
+<p>I was a part of the team that set up the venue, performed ticketing duties during the exhibition and was in charge of clean up duties at the end of the event.</p>
+
+<p><strong>Kumon, Remuera — Tutor</strong><br />
+April 2016 - July 2016</p>
+
+<p>I promoted individual learning by teaching  and helping students develop a personal study plan to achieve academic success. The role also included communicating with the student’s caregiver about their progress to help achieve set goals.</p>
+</blockquote>
+
+<h3 id="personal-project">PERSONAL PROJECT</h3>
+
+<blockquote>
+<p>I own and maintain a Dell Poweredge R710 server that I use to learn about enterprise software and virtualisation and to apply the theory gained from courses at university. This ‘homelab’ is where I freely experiment and implement new technologies and practice my skills in a non-production environment. It is currently hosting my VPN, DNS, NAS, <strong>this website</strong>, Jupyter hub, wiki and two game servers, all of which are run in virtual machines in linux containers (LXC) with more than 99% uptime.</p>
+</blockquote>
+
+<h3 id="skills">SKILLS</h3>
+
+<blockquote>
+<ul>
+<li>Operating systems - very experienced in Windows, Linux (arch, debian, ubuntu, centOS), iOS and android.</li>
+<li>Networking and security - practical experience in CCNA Routing and switching (in progress), subnetting, DHCP, DNS, VLAN and OpenVPN configuration.</li>
+<li>Programming experience - (mostly from university) Python, C, Java, HTML, CSS, JavaScript, node.js, prolog.</li>
+<li>Experience with SAP developed sales system software used by Ishop New World.
+Adobe Photoshop, Illustrator and Lightroom proficiency.</li>
+</ul>
+</blockquote>
+
+<h3 id="achievements">ACHIEVEMENTS</h3>
+
+<blockquote>
+<h4 id="2018">2018</h4>
+
+<ul>
+<li>IEEEXtreme programming competition 12.0 - Ranked 24th out of 4089</li>
+<li>IIBA Academic Certificate in Business Analysis</li>
+</ul>
+
+<h4 id="2015">2015</h4>
+
+<ul>
+<li>Certificate in Web and UX design at Yoobee school of design</li>
+<li>NZ Secondary School Badminton Championships Division 2 - First place</li>
+<li>ABRSM Grade 8 Piano</li>
+</ul>
+</blockquote>
+
+<h3 id="hobbies-and-interests">HOBBIES AND INTERESTS</h3>
+
+<blockquote>
+<p>I am a member of the UoA photography society and an avid photographer mainly shooting street photography. I am also a bi-weekly badminton player at College Rifles badminton club.</p>
+</blockquote>
+
+<h3 id="references">REFERENCES</h3>
+
+<blockquote>
+<p>Available on request</p>
+</blockquote>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
