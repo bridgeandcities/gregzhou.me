@@ -87,18 +87,18 @@ April 2016 - July 2016</p>
 <h3 id="personal-project">PERSONAL PROJECT</h3>
 
 <blockquote>
-<p>I own and maintain a Dell Poweredge R710 server that I use to learn about enterprise software and virtualisation and to apply the theory gained from courses at university. This ‘homelab’ is where I freely experiment and implement new technologies and practice my skills in a non-production environment. It is currently hosting my VPN, DNS, NAS, <strong>this website</strong>, Jupyter hub, wiki and two game servers, all of which are virtualised in linux containers (LXC) with more than 99.9% uptime.</p>
+<p>I own and maintain a Dell Poweredge R710 server that I use to learn about enterprise software and virtualisation and to apply the theory gained from courses at university. This ‘homelab’ is where I freely experiment and implement new technologies and practice my skills in a non-production environment. It is currently hosting my VPN, DNS, NAS, <strong>this website</strong>, Jupyter hub (for machine learning), wiki and two game servers, all of which are virtualised in linux containers (LXC) with more than 99.9% uptime.</p>
 </blockquote>
 
 <h3 id="skills">SKILLS</h3>
 
 <blockquote>
 <ul>
-<li>Operating systems - very experienced in Windows, Linux (arch, debian, ubuntu, centOS), iOS and android.</li>
-<li>Networking and security - practical experience in CCNA Routing and switching (in progress), subnetting, DHCP, DNS, VLAN and OpenVPN configuration.</li>
-<li>Programming experience - (mostly from university) Python, C, Java, HTML, CSS, JavaScript, node.js, prolog.</li>
-<li>Experience with SAP developed sales system software used by Ishop New World.
-Adobe Photoshop, Illustrator and Lightroom proficiency.</li>
+<li>Operating systems - very experienced in Windows, Linux (arch, debian, ubuntu, centOS), iOS and Android.</li>
+<li>Networking and security - practical experience in CCNA Routing and switching (in progress), subnetting, DHCP, DNS, VLAN and OpenVPN configuration. Also have experience in NGINX and SSL configuration for web services and general security knowledge such as Encryption, Ciphers, Authentication etc.</li>
+<li>Programming experience - (mostly from university) Python, C, Java, HTML, CSS, JavaScript, node.js, git and Bash.</li>
+<li>Experience with SAP developed sales system software used by Ishop New World.</li>
+<li>Adobe Photoshop, Illustrator and Lightroom proficient.</li>
 </ul>
 </blockquote>
 
